@@ -6,7 +6,8 @@
 		 </head>
    <body>
    
-      <?php
+      <?php     
+	        #insertar datos de usario para conectar con mysql
 		$user=$_POST['user'];
 		$direccion=$_POST['direccion'];
 		$correo=$_POST['correo'];
